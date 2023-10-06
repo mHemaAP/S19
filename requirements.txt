@@ -1,0 +1,7 @@
+torch
+torchvision
+pillow
+numpy
+gradio
+pytorch-lightning
+transformers
